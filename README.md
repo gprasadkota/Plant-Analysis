@@ -1,0 +1,2 @@
+# Plant-Analysis
+We're going to classify plant images into 4 different classes from a dataset of Soybean crops. Multi-class classification! We're moving up from simple binary classification tasks. This is a very lucrative area, agriculture is one of the last sectors to get disrupted with machine learning. A simple classifier is something many farmers are not aware of as even a possibility, thus the homework for this week is to learn some plant domain knowledge and use that to create a suitable plant classifier.
